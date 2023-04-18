@@ -13,6 +13,7 @@ This project is an assignment from my class
 ![Gambar](img/2.png)
 ### Menggunakan HTACCESS
 ![Gambar](img/5.png)
+#### Hasil Htacces terlihat tidak ada ekstensi .php
 ![Gambar](img/3.png)
 ![Gambar](img/4.png)
 ### Menggunakan Praktikum 3 dengan Modular
